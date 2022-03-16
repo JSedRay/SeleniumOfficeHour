@@ -41,8 +41,5 @@ public class VyTrack_US_9 {
         String expected1="The value have not to be more than 99.";
         String actual1=warningText1.getText();
         assertEquals(actual1,expected1);
-
-
-
     }
 }
